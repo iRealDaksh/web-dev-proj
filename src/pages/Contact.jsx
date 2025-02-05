@@ -76,7 +76,7 @@ const Contact = () => {
                     transition={{ duration: 0.5, delay: 0.6 }}
                 >
                     <h3 className="font-bold mb-2">Our Store Location:</h3>
-                    <p>Metamoda Store</p>
+                    <p>SNAZZIFY Store</p>
                     <p>VIT Chennai Campus</p>
                     <p>Kelambakkam - Vandalur Rd</p>
                     <p>Chennai, Tamil Nadu 600127</p>

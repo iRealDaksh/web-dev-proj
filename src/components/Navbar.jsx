@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 
 const Navbar = () => {
     return (
-        <nav className="bg-blue-500 text-white p-4">
+        <nav className="bg-amber-700 text-white p-4">
             <div className="container mx-auto">
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     {/* Logo with animation */}
@@ -14,7 +14,7 @@ const Navbar = () => {
                         transition={{ duration: 0.5 }}
                     >
                         <Link to="/" className="text-2xl font-bold mb-4 md:mb-0">
-                            METAMODA
+                            SNAZZIFY
                         </Link>
                     </motion.div>
 
